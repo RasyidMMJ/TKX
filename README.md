@@ -1,0 +1,2 @@
+# TKX
+TRUSTWALLET
